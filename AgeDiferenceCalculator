@@ -1,0 +1,8 @@
+public class AgeDiferenceCalculator{
+	public static void main(String[] args){
+		byte firstAge = 48;
+		byte secondAge = 10;
+		int diference = firstAge - secondAge;
+		System.out.println(firstAge + " - " + secondAge + " = " + diference) ;
+	}
+}
